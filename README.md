@@ -1,3 +1,4 @@
+<img width="1747" height="902" alt="Screenshot 2026-06-30 125810" src="https://github.com/user-attachments/assets/94184bcc-067e-4155-b338-251a2caa9966" />
 # Java Chat App
 
 A lightweight desktop messenger built entirely in pure Java, showcasing what the language can do without leaning on a single external framework, runtime, or third-party library. Real-time messaging, live typing indicators, voice input, text-to-speech, custom backgrounds, and an honesty indicator, all built on Java's own standard library.
