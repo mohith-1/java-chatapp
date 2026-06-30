@@ -93,7 +93,7 @@ Communication is plain text, one event per line, sent over a TCP socket.
 
 The server broadcasts each event to all other connected clients without needing to understand or modify the contents, it simply relays whatever it receives.
 ##Output
-
+https://github.com/mohith-1/java-chatapp/issues/1#issue-4779248350
 
 ## Technical Notes
 
