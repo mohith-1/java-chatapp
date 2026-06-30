@@ -92,6 +92,8 @@ Communication is plain text, one event per line, sent over a TCP socket.
 - LEFT:name means a client disconnected
 
 The server broadcasts each event to all other connected clients without needing to understand or modify the contents, it simply relays whatever it receives.
+##Output
+
 
 ## Technical Notes
 
